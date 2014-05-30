@@ -13,8 +13,7 @@
     "package.json"
   ],
   "dependencies": {
-      "pouchdb": "http://download.pouchdb.com/pouchdb-nightly.js",
-      "angular-pouch": "~0.0.2",
+      "angular-pouch": "https://github.com/kirushik/angular-pouch.git#v0.0.3",
       "node-uuid": "~1.4.1"
   },
   "devDependencies": {
